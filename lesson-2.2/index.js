@@ -84,4 +84,4 @@ while (!startValue || isNaN(startValue)) {
 }
 
 for (let i = 
-    //  я застряла 
+    //  я застряла  
